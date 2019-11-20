@@ -208,6 +208,7 @@ The Mars Help Desk, can assist with issues and concerns regarding:
       <input type="text" name="username" placeholder="Username"/>
       <input type="password" name="userpassword" placeholder="Password"/>
       <button>Login</button>
+	  <a href="avnregister.jsp">Sign Up?</a>
     </form>
   </div>
    <div class="cta"><a href="">Forgot your password?</a></div>
