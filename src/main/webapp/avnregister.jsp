@@ -212,6 +212,8 @@ The Mars Help Desk, can assist with issues and concerns regarding:
 	  <input type="email" name="useremail" placeholder="Email"/>
       <input type="password" name="userpassword" placeholder="Password"/>
       <button>Sign Up</button>
+	  <br><br>
+	  <a href="avnlogin.jsp" align="right" style="text-decoration: underline;">Back</a>
     </form>
   </div>
    <p class="text-center">
